@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Tasklist.Tasklist-task-build-classes-kotlin.main" target="11" />
+      <module name="Tasklist.Tasklist-task-build-reports-tests.main" target="11" />
+      <module name="Tasklist.Tasklist-task-build-test-results.main" target="11" />
+      <module name="Tasklist.Tasklist-task-build-tmp.main" target="11" />
+      <module name="Tasklist.Tasklist-task.main" target="11" />
+      <module name="Tasklist.Topics-Destructuring_declarations-Fix_a_bug.main" target="11" />
+      <module name="Tasklist.Topics-Destructuring_declarations-Pretty_output.main" target="11" />
+      <module name="Tasklist.Topics-Destructuring_declarations-The_meaning_of_operator.main" target="11" />
+      <module name="Tasklist.Topics-Destructuring_declarations-Theory.main" target="11" />
+      <module name="Tasklist.Topics-Destructuring_declarations-Underscore.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Instant_class.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Leap_Year.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Theory.main" target="11" />
+      <module name="Tasklist.Topics-Kotlinx_datetime_library-Using_the_kotlinx-datetime_library.main" target="11" />
+      <module name="Tasklist.Topics-Type_cast_and_smart_cast-Converting_to_string.main" target="11" />
+      <module name="Tasklist.Topics-Type_cast_and_smart_cast-Defining_a_variable_type.main" target="11" />
+      <module name="Tasklist.Topics-Type_cast_and_smart_cast-In_the_game_only_String.main" target="11" />
+      <module name="Tasklist.Topics-Type_cast_and_smart_cast-Replace_non-string_literal.main" target="11" />
+      <module name="Tasklist.Topics-Type_cast_and_smart_cast-Theory.main" target="11" />
+      <module name="Tasklist.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
